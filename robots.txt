@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spacecoastneighborhoodexplorer.com/sitemap.xml
